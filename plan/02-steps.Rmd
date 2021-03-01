@@ -1,0 +1,17 @@
+# Steps {#st}
+
+
+__Steps__:
+
+- Understand the data (There is a considerable number of files)
+    - 27th-28th Feb
+- Remind myself of basic Macroeconomic theory
+    - 27th-28th Feb
+- Learn about Bookdown
+    - 27th-28th Feb
+- Tidy the appropriate datasets
+    - 1st-2nd March
+- Create Plots and look for insights
+    - 3rd-4th March
+- Model building (This includes understanding this more fully)
+    - 5th-7th March

@@ -1,0 +1,19 @@
+--- 
+title: "Project Plan"
+output: bookdown::gitbook
+documentclass: book
+description: "Writting a project plan, testing the bookdown package."
+site: bookdown::bookdown_site
+---
+# Introduction
+
+This is my project plan for the **Final** Project of my 14 week _Code Clan_ course.
+
+
+The information will come from the data provided.
+
+The plan is to create the report using __Bookdown__.
+
+I will attempt to create slides using __Beamer__ (potentially)
+
+

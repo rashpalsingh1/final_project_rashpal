@@ -1,0 +1,10 @@
+# Learning Goals {#pg}
+
+- Review class notes
+-	Continue to practice R coding – wrangling, visualisations etc.
+-	Practice/understand model building
+-	Learn R-markdown
+- Improve apprecation of choosing the appropriate plot
+-	Return to basic macroeconomics
+-	Enhance Git Hub familarity (Do I need to look at feature branching)??
+

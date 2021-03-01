@@ -1,0 +1,10 @@
+# Questions {#ques}
+
+
+__The question I need to ask__:
+
+1. What is GPD?
+2. How can it be calculated?
+3. How does the UK and Scotland compare to other nations
+4. How can it be improved?
+5. Can we build a model to predict GDP using appropriate variables?
